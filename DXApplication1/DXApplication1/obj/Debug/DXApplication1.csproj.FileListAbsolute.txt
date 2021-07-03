@@ -1,0 +1,10 @@
+E:\BaiTap\Bootstrap\DXApplication1\DXApplication1\bin\Debug\DXApplication1.exe
+E:\BaiTap\Bootstrap\DXApplication1\DXApplication1\bin\Debug\DXApplication1.pdb
+E:\BaiTap\Bootstrap\DXApplication1\DXApplication1\obj\Debug\DXApplication1.csprojResolveAssemblyReference.cache
+E:\BaiTap\Bootstrap\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Form1.resources
+E:\BaiTap\Bootstrap\DXApplication1\DXApplication1\obj\Debug\DXApplication1.Properties.Resources.resources
+E:\BaiTap\Bootstrap\DXApplication1\DXApplication1\obj\Debug\DXApplication1.csproj.GenerateResource.Cache
+E:\BaiTap\Bootstrap\DXApplication1\DXApplication1\obj\Debug\DXApplication1.exe.licenses
+E:\BaiTap\Bootstrap\DXApplication1\DXApplication1\obj\Debug\DXApplication1.exe
+E:\BaiTap\Bootstrap\DXApplication1\DXApplication1\obj\Debug\DXApplication1.pdb
+E:\BaiTap\Bootstrap\DXApplication1\DXApplication1\bin\Debug\DXApplication1.exe.config
